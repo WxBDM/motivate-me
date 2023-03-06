@@ -1,2 +1,7 @@
 __pycache__
 .env
+*.egg-info
+
+# pypi stuff
+build/*
+dist/*

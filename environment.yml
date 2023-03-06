@@ -1,0 +1,7 @@
+name: motivate
+channels:
+  - conda-forge
+dependencies:
+  - pip=23.0.1
+  - openai=0.27.0 
+prefix: /opt/anaconda3/envs/motivate
