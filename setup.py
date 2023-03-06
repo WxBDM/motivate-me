@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='motivate-me',
-    version='0.1.0-alpha.1',
+    version='0.1.0',
     author='Brandon Molyneaux',
     author_email='brandon@learningcodeonline.com',
     description='A package leveraging ChatGPT to print out motivational quotes and one-liners.',
